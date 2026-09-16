@@ -118,19 +118,19 @@ footer {
 
 <div class="card">
   <div class="gold">100 Gold</div>
-  <div class="price">50 грн</div>
+  <div class="price">44 грн</div>
   <a class="btn" href="https://t.me/" target="_blank">Замовити</a>
 </div>
 
 <div class="card">
   <div class="gold">500 Gold</div>
-  <div class="price">200 грн</div>
+  <div class="price">220 грн</div>
   <a class="btn" href="https://t.me/" target="_blank">Замовити</a>
 </div>
 
 <div class="card">
   <div class="gold">1000 Gold</div>
-  <div class="price">350 грн</div>
+  <div class="price">440 грн</div>
   <a class="btn" href="https://t.me/" target="_blank">Замовити</a>
 </div>
 
